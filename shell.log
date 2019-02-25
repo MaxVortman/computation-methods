@@ -8192,3 +8192,18 @@
 2018-12-18 12:01:58 - The value, namespace, type or module 'Utils' is not defined. Maybe you want one of the following:
 2018-12-18 12:01:58 -    Util
 2018-12-18 12:02:01 - printInfo |> Util.Table
+2018-12-18 13:02:31 - Microsoft (R) F# Interactive version 10.2.3 for F# 4.5
+2018-12-18 13:02:31 - Copyright (c) Microsoft Corporation. All Rights Reserved.
+2018-12-18 13:02:31 - For help type #help;;
+2018-12-18 13:02:31 - > val it :
+2018-12-18 13:02:31 -   ResizeArray<System.Type *
+2018-12-18 13:02:31 -               (obj ->
+2018-12-18 13:02:31 -                  seq<string *
+2018-12-18 13:02:31 -                      string> *
+2018-12-18 13:02:31 -                  string)>
+2018-12-18 13:02:31 - = seq []
+2018-12-18 13:02:31 - --> Added '/home/max/dev/IfSharp.v3.0.1' to library include path
+2018-12-18 13:02:31 - --> Referenced '/home/max/dev/IfSharp.v3.0.1/IfSharp.Kernel.dll' (file may be locked by F# Interactive process)
+2018-12-18 13:02:31 - --> Referenced '/home/max/dev/IfSharp.v3.0.1/NetMQ.dll' (file may be locked by F# Interactive process)
+2018-12-18 13:02:33 - Reporting 0 opened comms
+2018-12-18 13:02:51 - shutdown request
