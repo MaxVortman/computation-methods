@@ -8207,3 +8207,61 @@
 2018-12-18 13:02:31 - --> Referenced '/home/max/dev/IfSharp.v3.0.1/NetMQ.dll' (file may be locked by F# Interactive process)
 2018-12-18 13:02:33 - Reporting 0 opened comms
 2018-12-18 13:02:51 - shutdown request
+2019-04-01 22:04:07 - Microsoft (R) F# Interactive version 10.2.3 for F# 4.5
+2019-04-01 22:04:07 - Copyright (c) Microsoft Corporation. All Rights Reserved.
+2019-04-01 22:04:07 - For help type #help;;
+2019-04-01 22:04:07 - > val it :
+2019-04-01 22:04:07 -   ResizeArray<System.Type *
+2019-04-01 22:04:07 -               (obj ->
+2019-04-01 22:04:07 -                  seq<string *
+2019-04-01 22:04:07 -                      string> *
+2019-04-01 22:04:07 -                  string)>
+2019-04-01 22:04:07 - = seq []
+2019-04-01 22:04:07 - --> Added '/home/max/dev/IfSharp.v3.0.1' to library include path
+2019-04-01 22:04:07 - --> Referenced '/home/max/dev/IfSharp.v3.0.1/IfSharp.Kernel.dll' (file may be locked by F# Interactive process)
+2019-04-01 22:04:07 - --> Referenced '/home/max/dev/IfSharp.v3.0.1/NetMQ.dll' (file may be locked by F# Interactive process)
+2019-04-01 22:04:09 - Reporting 0 opened comms
+2019-05-31 20:48:14 - Microsoft (R) F# Interactive version 10.2.3 for F# 4.5
+2019-05-31 20:48:14 - Copyright (c) Microsoft Corporation. All Rights Reserved.
+2019-05-31 20:48:14 - For help type #help;;
+2019-05-31 20:48:14 - > val it :
+2019-05-31 20:48:14 -   ResizeArray<System.Type *
+2019-05-31 20:48:14 -               (obj ->
+2019-05-31 20:48:14 -                  seq<string *
+2019-05-31 20:48:14 -                      string> *
+2019-05-31 20:48:14 -                  string)>
+2019-05-31 20:48:14 - = seq []
+2019-05-31 20:48:14 - --> Added '/home/max/dev/IfSharp.v3.0.1' to library include path
+2019-05-31 20:48:14 - --> Referenced '/home/max/dev/IfSharp.v3.0.1/IfSharp.Kernel.dll' (file may be locked by F# Interactive process)
+2019-05-31 20:48:14 - --> Referenced '/home/max/dev/IfSharp.v3.0.1/NetMQ.dll' (file may be locked by F# Interactive process)
+2019-05-31 20:48:15 - Reporting 0 opened comms
+2019-05-31 23:09:03 - shutdown request
+2019-06-01 17:27:01 - Microsoft (R) F# Interactive version 10.2.3 for F# 4.5
+2019-06-01 17:27:01 - Copyright (c) Microsoft Corporation. All Rights Reserved.
+2019-06-01 17:27:01 - For help type #help;;
+2019-06-01 17:27:01 - > val it :
+2019-06-01 17:27:01 -   ResizeArray<System.Type *
+2019-06-01 17:27:01 -               (obj ->
+2019-06-01 17:27:01 -                  seq<string *
+2019-06-01 17:27:01 -                      string> *
+2019-06-01 17:27:01 -                  string)>
+2019-06-01 17:27:01 - = seq []
+2019-06-01 17:27:01 - --> Added '/home/max/dev/IfSharp.v3.0.1' to library include path
+2019-06-01 17:27:01 - --> Referenced '/home/max/dev/IfSharp.v3.0.1/IfSharp.Kernel.dll' (file may be locked by F# Interactive process)
+2019-06-01 17:27:01 - --> Referenced '/home/max/dev/IfSharp.v3.0.1/NetMQ.dll' (file may be locked by F# Interactive process)
+2019-06-01 17:27:02 - Reporting 0 opened comms
+2019-06-01 17:27:16 - Microsoft (R) F# Interactive version 10.2.3 for F# 4.5
+2019-06-01 17:27:16 - Copyright (c) Microsoft Corporation. All Rights Reserved.
+2019-06-01 17:27:16 - For help type #help;;
+2019-06-01 17:27:16 - > val it :
+2019-06-01 17:27:16 -   ResizeArray<System.Type *
+2019-06-01 17:27:16 -               (obj ->
+2019-06-01 17:27:16 -                  seq<string *
+2019-06-01 17:27:16 -                      string> *
+2019-06-01 17:27:16 -                  string)>
+2019-06-01 17:27:16 - = seq []
+2019-06-01 17:27:16 - --> Added '/home/max/dev/IfSharp.v3.0.1' to library include path
+2019-06-01 17:27:16 - --> Referenced '/home/max/dev/IfSharp.v3.0.1/IfSharp.Kernel.dll' (file may be locked by F# Interactive process)
+2019-06-01 17:27:16 - --> Referenced '/home/max/dev/IfSharp.v3.0.1/NetMQ.dll' (file may be locked by F# Interactive process)
+2019-06-01 17:27:18 - Reporting 0 opened comms
+2019-06-01 18:27:15 - shutdown request
